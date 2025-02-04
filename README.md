@@ -1,6 +1,6 @@
 # 📌 Facebook Sentiment Analysis with Random Forest  
 
-![Banner](images/banner.png)  
+![Banner](assets/banner.png)  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/facebook-sentiment-analysis)  
 ![GitHub contributors](https://img.shields.io/github/contributors/yourusername/facebook-sentiment-analysis)  
