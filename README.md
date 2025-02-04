@@ -25,7 +25,7 @@ This project is a **Facebook Sentiment Analysis** tool built with **Streamlit** 
 ## 📸 Screenshots  
 
 ### 🔹 **User Interface**  
-![UI Screenshot](assets/naturak.png)  
+!(assets/naturak.png)  
 
 ### 🔹 **Sentiment Analysis in Action**  
 ![Sentiment Analysis](assets/positive.png)  
