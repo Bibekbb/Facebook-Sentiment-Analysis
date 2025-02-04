@@ -23,7 +23,7 @@ This project is a **Facebook Sentiment Analysis** tool built with **Streamlit** 
  
 
 ### 🔹 **Sentiment Analysis in Action**  
-![Sentiment Analysis](images/positive.jpg)  
+![Sentiment Analysis](assets/positive.jpg)  
 
 ---
 
