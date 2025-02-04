@@ -1,11 +1,5 @@
 # 📌 Facebook Sentiment Analysis with Random Forest  
-
-![Banner](assets/banner.png)  
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/facebook-sentiment-analysis)  
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/facebook-sentiment-analysis)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername/facebook-sentiment-analysis?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/yourusername/facebook-sentiment-analysis?style=social)  
+ 
 
 ## 🚀 Overview  
 
@@ -25,10 +19,11 @@ This project is a **Facebook Sentiment Analysis** tool built with **Streamlit** 
 ## 📸 Screenshots  
 
 ### 🔹 **User Interface**  
-!(assets/naturak.png)  
+![User Interface](assets/natural.png)
+ 
 
 ### 🔹 **Sentiment Analysis in Action**  
-![Sentiment Analysis](assets/positive.png)  
+![Sentiment Analysis](images/positive.png)  
 
 ---
 
@@ -99,16 +94,6 @@ facebook-sentiment-analysis/
 | `"This is okay, nothing special."` | 😐 Neutral |
 | `"Worst experience ever! Never buying again."` | 😡 Negative |
 
----
-
-## 🌍 Deployment  
-
-To deploy this project online, you can use **Streamlit Cloud, Heroku, or AWS**.  
-
-Example for **Streamlit Cloud**:  
-1️⃣ Push the repository to GitHub  
-2️⃣ Go to [Streamlit Cloud](https://share.streamlit.io/)  
-3️⃣ Connect your repository and deploy  
 
 ---
 
@@ -137,17 +122,4 @@ This project is **MIT licensed**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📩 Contact  
-
-📧 **Your Name** – [your.email@example.com](mailto:your.email@example.com)  
-🔗 **GitHub** – [github.com/yourusername](https://github.com/yourusername)  
-🚀 **Portfolio** – [yourwebsite.com](https://yourwebsite.com)  
-
 Give a ⭐ if you found this useful! 😊  
-
----
-
-### 🔹 **Note:**  
-Make sure to upload `banner.png`, `ui_screenshot.png`, and `sentiment_example.png` inside an `images/` folder in your repository for proper display.  
-
-Let me know if you need more modifications! 🚀🔥
