@@ -103,16 +103,7 @@ facebook-sentiment-analysis/
 - 🔹 Add **BERT-based sentiment analysis**  
 - 🔹 Enable **real-time Facebook comment scraping**  
 
----
-
-## 🤝 Contributing  
-
-Contributions are **welcome**! Please follow these steps:  
-1️⃣ Fork the repository  
-2️⃣ Create a new branch: `git checkout -b feature-branch`  
-3️⃣ Commit changes: `git commit -m "Add new feature"`  
-4️⃣ Push the branch: `git push origin feature-branch`  
-5️⃣ Open a **Pull Request**  
+--- 
 
 ---
 
