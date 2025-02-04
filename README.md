@@ -19,11 +19,11 @@ This project is a **Facebook Sentiment Analysis** tool built with **Streamlit** 
 ## 📸 Screenshots  
 
 ### 🔹 **User Interface**  
-![User Interface](assets/natural.png)
+![User Interface](assets/natural.jpg)
  
 
 ### 🔹 **Sentiment Analysis in Action**  
-![Sentiment Analysis](images/positive.png)  
+![Sentiment Analysis](images/positive.jpg)  
 
 ---
 
